@@ -1,0 +1,3 @@
+v-0.9.1 2014-01-17
+实现用户身份认证功能，spring+hibernate+Shiro
+applicationContext-1.xml 为使用内置表单过滤器获取页面数据
